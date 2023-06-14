@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on Frontend Development.<br>👯 I’m looking to collaborate on blockchain applications.<br>🌱 I’m currently learning MERN Stack.<br>💬 Ask me about development.<br>⚡ Gym freak
+🔭 I’m currently working on Frontend Development.<br>👯 ML Enthusiastic.<br>🌱 I’m currently learning MERN Stack.<br>💬 Ask me about development.<br>⚡ Gym freak
 
 
 ## 🌐 Socials:
