@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on **building real world projects**
 
 - 📫 How to reach me **mdashhar01@gmail.com**
+- Find more about me at: <a href= "https://parichay-2-0.vercel.app/"> Portfolio </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
